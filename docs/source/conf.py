@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'pathgenevocam'
+copyright = '2021'
+author = 'ajv37'
 
-release = '0.1'
-version = '0.1.0'
+release = ''
+version = ''
 
 # -- General configuration
 
