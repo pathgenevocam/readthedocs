@@ -5,3 +5,5 @@ API
    :toctree: generated
 
    pathgenevocam
+   usage
+   installation
