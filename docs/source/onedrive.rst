@@ -124,7 +124,7 @@ You will be given a number of different storage type options. Select ``27`` for 
    $    \ "cn"
    $ region> 
 
-Select ``n`` for the next two options (``Edit advanced config? (y/n)`` and `Use auto config?`):
+Select ``n`` for the next two options (``Edit advanced config? (y/n)`` and ``Use auto config?``):
 
 .. code-block:: console
 
