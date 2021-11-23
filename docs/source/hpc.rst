@@ -1,5 +1,5 @@
-Accessing the Cambridge HPC
-===========================
+Using the Cambridge HPC
+=======================
 
 Work in progress
 

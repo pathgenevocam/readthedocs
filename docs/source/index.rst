@@ -19,6 +19,7 @@ Work
  newstarters
  hpc
  onedrive
+ conda
  nfcore
  beast
  github
