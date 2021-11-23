@@ -1,7 +1,7 @@
 Welcome to The Pathogen Genomics and Evolution Group's documentation!
 =====================================================================
 
-The home for documentation useful for the The Pathogen Genomics and Evolution Group.
+The home for documentation useful to the The Pathogen Genomics and Evolution Group.
 
 .. note::
 
