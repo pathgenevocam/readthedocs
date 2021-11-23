@@ -1,20 +1,16 @@
-.. toctree::
- :maxdepth: 2
-
- onedrive
-
 Welcome to The Pathogen Genomics and Evolution Group's documentation!
 =====================================================================
 
-Check out the :doc:`onedrive` section for further information, including
-how to :ref:`installation` the project.
+The home for documentation useful for the The Pathogen Genomics and Evolution Group.
 
 .. note::
 
    This documentation is under active development.
 
-
 Contents
 --------
 
-:doc:`onedrive`
+.. toctree::
+ :maxdepth: 1
+
+ onedrive
