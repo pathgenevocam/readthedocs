@@ -8,7 +8,7 @@ on the ENA.  We'll make use of a tool called **Rclone** to do this.
 Log into your OneDrive account
 ------------------------------
 
-Go to `Office365 https://www.office.com/` and log in using your Cambridge CRSid.  Click on the OneDrive logo.
+Go to `https://www.office.com/` and log in using your Cambridge CRSid.  Click on the OneDrive logo.
 
 Install Rclone on the HPC
 ----------------------------
@@ -27,8 +27,8 @@ Install Rclone on your personal machine
 MacOS
 ^^^^^
 
-If you haven't already, you'll need to install ``conda`` (`miniconda https://conda.io/projects/conda/en/latest/user-guide/install/macos.html`).  
-Download the appropriate ``bash`` file from `miniconda https://docs.conda.io/en/latest/miniconda.html` then:
+If you haven't already, you'll need to install ``conda`` (`https://conda.io/projects/conda/en/latest/user-guide/install/macos.html`).  
+Download the appropriate ``bash`` file from `https://docs.conda.io/en/latest/miniconda.html` then:
 
 .. code-block:: console
 
@@ -57,7 +57,7 @@ Copy the token including the brackets one either side i.e. ``{}``
 Configure Rclone on the HPC
 ---------------------------
 
-Full instructions are available at `Rclone https://rclone.org/onedrive/`. To configure the HPC instance of RClone with your details do the following:
+Full instructions are available at `https://rclone.org/onedrive/`. To configure the HPC instance of RClone with your details do the following:
 
 .. code-block:: console
 
@@ -68,7 +68,7 @@ You will now be required to answer some prompts. For a few the defaults can be u
 .. code-block:: console
 
    $ rclone config
-   $ 2021/11/22 15:40:23 NOTICE: Config file "/home/ajv37/.config/rclone/rclone.conf" not found - using defaults
+   $ 2021/11/22 15:40:23 NOTICE: Config file "/home/user/.config/rclone/rclone.conf" not found - using defaults
    $ No remotes found - make a new one
    $ n) New remote
    $ s) Set configuration password
@@ -183,7 +183,7 @@ Rclone will now need to confirm that you want to set up access to a OneDrive acc
    $ Drive OK?   $ 
 
    $ Found drive "root" of type "business"
-   $ URL: https://universityofcambridgecloud-my.sharepoint.com/personal/ajv37_cam_ac_uk/Documents   $ 
+   $ URL: https://universityofcambridgecloud-my.sharepoint.com/personal/user_cam_ac_uk/Documents   $ 
 
    $ y) Yes (default)
    $ n) No
