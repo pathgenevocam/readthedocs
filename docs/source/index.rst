@@ -1,3 +1,8 @@
+.. toctree::
+ :maxdepth: 2
+
+ onedrive
+
 Welcome to The Pathogen Genomics and Evolution Group's documentation!
 =====================================================================
 
@@ -8,10 +13,8 @@ how to :ref:`installation` the project.
 
    This documentation is under active development.
 
-.. toctree::
- :maxdepth: 2
-
- onedrive
 
 Contents
 --------
+
+:doc:`onedrive`
