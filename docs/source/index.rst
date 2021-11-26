@@ -24,6 +24,7 @@ Work
  beast
  github
  webpage
+ rplots
 
 Social
 ^^^^^^
