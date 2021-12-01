@@ -53,7 +53,7 @@ Group A
      - 0
      - 6
      - -6
-     - 4
+     - 0
 
 Alex and Dinesh are through to the cup semi-finals.
 
