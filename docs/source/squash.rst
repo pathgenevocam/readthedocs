@@ -3,9 +3,9 @@ All things squash
 
 One of the things we enjoy doing in the Pathogen Genomics and Evolution Group is to play squash.  
 We play regularly at the University Sports Centre just around the corner.  As we're in the process
-of resuming squash following the pandemic we're playing a tournament to establish the initial ladder.
+of resuming squash following the pandemic we've played a tournament to establish the initial ladder.
 
-The current standings are as follows:
+The final standings are as follows:
 
 Group A
 -------
@@ -23,28 +23,28 @@ Group A
      - Games Difference
      - Points
    * - Alex
-     - 2
-     - 2
+     - 3
+     - 3
      - 0
-     - 4
+     - 6
      - 0
-     - +4
-     - 4
+     - +6
+     - 6
    * - Dinesh
-     - 1
-     - 1
-     - 0
+     - 3
      - 2
-     - 0
-     - +2
-     - 2
+     - 1
+     - 4
+     - 3
+     - +1
+     - 4
    * - Seb
-     - 2
+     - 3
      - 1
-     - 1
      - 2
-     - 2
-     - 0
+     - 3
+     - 4
+     - -1
      - 2
    * - Ubaid
      - 3
@@ -55,8 +55,58 @@ Group A
      - -6
      - 4
 
+Alex and Dinesh are through to the cup semi-finals.
+
+Seb and Ubaid are through to the plate semi-finals.
+
 Group B
 -------
 
-Claire and Andries finished top of the round robin and go through to the semi-finals of the cup.
-Julian is through to the plate round-robin.
+Claire and Andries are through to the semi-finals of the cup.
+
+Julian and Katriina are through to the plate semi-finals.
+
+Semi-finals
+-----------
+
+Cup
+^^^
+
+Alex vs Claire
+
+Dinesh vs Andries
+
+Plate
+^^^^^
+
+Julian vs Seb
+
+Ubaid vs Katriina
+
+Ladder
+------
+
+.. list-table:: Points Table
+   :widths: 25 50
+   :header-rows: 1
+
+   * - Rank
+     - Name
+   * - 1
+     - 
+   * - 2
+     -
+   * - 3
+     -
+   * - 4
+     -
+   * - 5
+     -
+   * - 6
+     -
+   * - 7
+     -
+   * - 8
+     -
+   * - 9
+     - Ibrahim (injured)
