@@ -8,7 +8,7 @@ on the ENA.  We'll make use of a tool called **Rclone** to do this.
 Log into your OneDrive account
 ------------------------------
 
-Go to `https://www.office.com/` and log in using your Cambridge CRSid.  Click on the OneDrive logo.
+Go to `Microsoft365 <https://www.office.com/>`_ and log in using your Cambridge CRSid.  Click on the OneDrive logo.
 
 Install Rclone on the HPC
 ----------------------------
@@ -27,8 +27,8 @@ Install Rclone on your personal machine
 MacOS
 ^^^^^
 
-If you haven't already, you'll need to install ``conda`` (`https://conda.io/projects/conda/en/latest/user-guide/install/macos.html`).  
-Download the appropriate ``bash`` file from `https://docs.conda.io/en/latest/miniconda.html` then:
+If you haven't already, you'll need to install `conda <https://conda.io/projects/conda/en/latest/user-guide/install/macos.html>`_.  
+Download the appropriate ``bash`` file from `<https://docs.conda.io/en/latest/miniconda.html>`_ then:
 
 .. code-block:: console
 
@@ -57,7 +57,7 @@ Copy the token including the brackets one either side i.e. ``{}``
 Configure Rclone on the HPC
 ---------------------------
 
-Full instructions are available at `https://rclone.org/onedrive/`. To configure the HPC instance of RClone with your details do the following:
+Full instructions are available at `<https://rclone.org/onedrive/>`_. To configure the HPC instance of RClone with your details do the following:
 
 .. code-block:: console
 
