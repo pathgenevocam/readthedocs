@@ -69,3 +69,22 @@ Under ``I agree to the above rules and conditions *``, click the ``Yes`` tick bo
 Hit the ``Submit`` button.
 
 Julian will receive an e-mail asking him to confirm your request and after that you should receive an e-mail with your account details.
+
+Login to the HPC
+-----------------
+
+Once you have your account details, you can login via a terminal window using ``ssh``:
+
+To access the CPU nodes:
+
+.. code-block:: console
+
+   $ ssh <username>@login-cpu.hpc.cam.ac.uk
+
+To access the GPU nodes:
+
+.. code-block:: console
+
+   $ ssh <username>@login-gpu.hpc.cam.ac.uk
+
+The password will be the same as your UIS password i.e. the password you use to access Raven or your e-mail.
