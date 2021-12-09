@@ -72,9 +72,9 @@ Semi-finals
 Cup
 ^^^
 
-Alex vs Claire
+Alex beat Claire 2-1
 
-Dinesh vs Andries
+Dinesh beat Andries 2-1
 
 Plate
 ^^^^^
@@ -82,6 +82,23 @@ Plate
 Julian vs Seb
 
 Ubaid vs Katriina
+
+Finals
+------
+
+Cup
+^^^
+
+Final: Alex vs Dinesh
+
+Third place play-off: Andries vs Claire
+
+Plate
+^^^^^
+
+Final: TBC
+
+Seventh place play-off: TBC
 
 Ladder
 ------
