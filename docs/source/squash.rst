@@ -79,9 +79,9 @@ Dinesh beat Andries 2-1
 Plate
 ^^^^^
 
-Julian vs Seb
+Seb beat Julian 2-0
 
-Ubaid vs Katriina
+Ubaid beat Katriina 2-0
 
 Finals
 ------
@@ -96,9 +96,9 @@ Third place play-off: Andries vs Claire
 Plate
 ^^^^^
 
-Final: TBC
+Final: Seb beat Ubaid 2-0. Seb is Plate Champion!!
 
-Seventh place play-off: TBC
+Seventh place play-off: Julian beat Katriina 2-0
 
 Ladder
 ------
@@ -118,12 +118,12 @@ Ladder
    * - 4
      -
    * - 5
-     -
+     - Seb
    * - 6
-     -
+     - Ubaid
    * - 7
-     -
+     - Julian
    * - 8
-     -
+     - Katriina
    * - 9
      - Ibrahim (injured)
