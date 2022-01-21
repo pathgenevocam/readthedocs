@@ -1,9 +1,41 @@
 All things squash
 =================
 
-One of the things we enjoy doing in the Pathogen Genomics and Evolution Group is to play squash.  
-We play regularly at the University Sports Centre just around the corner.  As we're in the process
-of resuming squash following the pandemic we've played a tournament to establish the initial ladder.
+One of the things we enjoy doing in the Pathogen Genomics and Evolution Group is playing squash.  
+We play regularly at the University Sports Centre just around the corner.  
+
+Ladder
+------
+
+.. list-table:: Points Table
+   :widths: 25 50
+   :header-rows: 1
+
+   * - Rank
+     - Name
+   * - 1
+     - Alex
+   * - 2
+     - Dinesh
+   * - 3
+     - Andries
+   * - 4
+     - Claire
+   * - 5
+     - Seb
+   * - 6
+     - Ubaid
+   * - 7
+     - Julian
+   * - 8
+     - Katriina
+   * - 9
+     - Ibrahim
+
+Tournament
+----------
+
+Following the pandemic we played a tournament to establish the initial ladder.
 
 The final standings are as follows:
 
@@ -89,7 +121,8 @@ Finals
 Cup
 ^^^
 
-Final: Alex vs Dinesh
+Final: Alex beat Dinesh 2-0. Alex is the Cup Champion and heads to the top of
+the ladder.
 
 Third place play-off: Andries vs Claire
 
@@ -99,31 +132,3 @@ Plate
 Final: Seb beat Ubaid 2-0. Seb is Plate Champion!!
 
 Seventh place play-off: Julian beat Katriina 2-0
-
-Ladder
-------
-
-.. list-table:: Points Table
-   :widths: 25 50
-   :header-rows: 1
-
-   * - Rank
-     - Name
-   * - 1
-     - 
-   * - 2
-     -
-   * - 3
-     -
-   * - 4
-     -
-   * - 5
-     - Seb
-   * - 6
-     - Ubaid
-   * - 7
-     - Julian
-   * - 8
-     - Katriina
-   * - 9
-     - Ibrahim (injured)
