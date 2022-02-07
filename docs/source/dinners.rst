@@ -67,4 +67,7 @@ is as follows:
    * - November 2021
      - Italian
      - Al Pomodoro
+   * - February 2022
+     - Jordanian
+     - Little Petra
    
