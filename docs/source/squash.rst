@@ -18,19 +18,19 @@ Ladder
    * - 2
      - Dinesh
    * - 3
-     - Andries
-   * - 4
-     - Claire
-   * - 5
      - Seb
+   * - 4
+     - Andries
+   * - 5
+     - Claire
    * - 6
      - Ubaid
    * - 7
      - Julian
    * - 8
-     - Katriina
-   * - 9
      - Ibrahim
+   * - 9
+     - Katriina
 
 Tournament
 ----------
