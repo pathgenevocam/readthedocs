@@ -7,7 +7,7 @@ We play regularly at the University Sports Centre just around the corner.
 Ladder
 ------
 
-.. list-table:: 07/02/2022
+.. list-table:: 14/02/2022
    :widths: 25 50
    :header-rows: 1
 
@@ -26,9 +26,9 @@ Ladder
    * - 6
      - Ubaid
    * - 7
-     - Julian
-   * - 8
      - Ibrahim
+   * - 8
+     - Julian
    * - 9
      - Katriina
 
