@@ -78,7 +78,7 @@ for your species or else use the slope you calculated if you created a root to t
   :alt: Beauti tip dates
 
 Now we need to decide on a population model and set some other priors. Depending on your species/dataset a constant or exponential population size may be more appropriate. However, 
-a `Coalescent Bayesian Skyline` model allows for different population sizes through time and allows use to construct skyline plots which show the estimated population size or genetic
+a `Coalescent Bayesian Skyline` model allows for different population sizes through time and allows us to construct skyline plots which show the estimated population size or genetic
 diversity through time. Change `Yule Model` to `Coalescent Bayesian Skyline`.  All the priors can be set but for most datasets changing the `ucldMean.c` option is all we need to do.  
 Change `Uniform` to `Log Normal` and click on the arrow to expand the options. Change `M` (Median) to the subsitution rate you used on the `Clock Model` tab, set `S` (standard deviation)
 to ``0.5`` and click the tickbox next to `Mean In Real Space`:
