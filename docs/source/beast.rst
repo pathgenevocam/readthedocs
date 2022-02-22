@@ -95,6 +95,27 @@ and change the ``Log Every`` to ``10000``. Save the xml file using ``File/Save``
   :width: 800
   :alt: Beauti tip dates
 
+The last thing to do before running BEAST is add the number of constant sites to the xml file and create an additional two copies of the xml file so there are three replicates.  Extract the
+number of constant sites from your whole genome alignment using ``snp-sites -C`` then open ``beast_run_1.xml`` in a text editor like ``Sublime``. There are two code blocks that need to be
+edited so BEAST takes account of the number of constant sites in your alignment.  At the top of the alignment block change 
+    
+    ``<data
+id="alignment_dated"
+spec="Alignment"
+name="alignment">``
+
+to
+
+``<data id="alignmentVar" dataType="nucleotide">``
+
+At the bottom of the alignment block after the ``</data>`` tag, add the following code block:
+
+``<data id="alignment_dated" spec="FilteredAlignment" filter='-' data='@alignmentVar' constantSiteWeights='713758 1355838 1350340 715019'/>``
+
+Change the constant sites after ``constantSiteWeights=`` to the values you extracted using ``snp-sites -C``.  Save the xml file.  To create your replicates, use ``File/Save As...`` in your text
+editor and save the file as ``beast_run_2.xml``.  Scroll to the bottom of the file and change ``fileName="beast_run_1.log"`` to ``fileName="beast_run_2.log"`` and ``fileName="beast_run_1.trees"``
+to ``fileName="beast_run_2.trees"``.  Save the file then repeat the same process to create a third replicate file i.e. ``beast_run_3.xml``.
+
 Edit HPC submission script
 --------------------------
 
