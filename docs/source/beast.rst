@@ -98,11 +98,8 @@ and change the ``Log Every`` to ``10000``. Save the xml file using ``File/Save``
 The last thing to do before running BEAST is add the number of constant sites to the xml file and create an additional two copies of the xml file so there are three replicates.  Extract the
 number of constant sites from your whole genome alignment using ``snp-sites -C`` then open ``beast_run_1.xml`` in a text editor like ``Sublime``. There are two code blocks that need to be
 edited so BEAST takes account of the number of constant sites in your alignment.  At the top of the alignment block change 
-    
-    ``<data
-id="alignment_dated"
-spec="Alignment"
-name="alignment">``
+
+``<data id="alignment_dated" spec="Alignment" name="alignment">``
 
 to
 
@@ -114,18 +111,32 @@ At the bottom of the alignment block after the ``</data>`` tag, add the followin
 
 Change the constant sites after ``constantSiteWeights=`` to the values you extracted using ``snp-sites -C``.  Save the xml file.  To create your replicates, use ``File/Save As...`` in your text
 editor and save the file as ``beast_run_2.xml``.  Scroll to the bottom of the file and change ``fileName="beast_run_1.log"`` to ``fileName="beast_run_2.log"`` and ``fileName="beast_run_1.trees"``
-to ``fileName="beast_run_2.trees"``.  Save the file then repeat the same process to create a third replicate file i.e. ``beast_run_3.xml``.
+to ``fileName="beast_run_2.trees"``.  Save the file then repeat the same process to create a third replicate file i.e. ``beast_run_3.xml``.  Copy the files to the HPC.  Create a directory
+for each replicate e.g. ``run1``, ``run2``, ``run3``
 
 Edit HPC submission script
 --------------------------
 
 Thanks to Noémie for providing this HPC submission script that makes use of the ``beagle`` libraries installed on the HPC.  The script
-can be found `here <https://github.com/pathgenevocam/hpc_submission>`_. 
+can be found `here <https://github.com/pathgenevocam/hpc_submission>`_. Copy the script to the directory where your run directories are located and edit the script in ``nano`` as follows:
+
+Change ``#SBATCH -J JOBNAME`` to a sensible job name to help you track your jobs e.g. ``#SBATCH -J beast_1``.  Change ``#SBATCH -A GROUPNAME`` to the project you're using for your GPU analyses.
+Depending on whether you're using a ``SL2`` (36 hours) or ``SL3`` (12 hours) project, edit ``#SBATCH --time=12:00:00`` accordingly.  For the first attempt we'll use the first ``beast`` command 
+in the submission script.  Change the location of the ``beast`` binary to where yours is located. Copy the submission script to each of your run directories and use the command below to submit 
+your jobs.
 
 Submit job(s)
 -------------
 
+To submit your ``beast`` jobs:
+
 .. code-block:: console
 
-    $ sbatch --export=file=beast.xml run_beast_2.6.6-GPU.sh
+    $ sbatch --export=file=beast_run_1.xml run_beast_2.6.6-GPU.sh
+
+Check your log files in Tracer
+------------------------------
+
+Resuming beast runs
+-------------------
 
