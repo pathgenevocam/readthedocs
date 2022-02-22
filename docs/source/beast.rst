@@ -48,9 +48,21 @@ You can then run seqkit on your alignment to change the sample names:
 Create xml file in Beauti
 -------------------------
 
+To create the BEAST xml file, load the dated alignment file you created with ``seqkit`` into ``Beauti`` using `File/Import alignment` and click `OK` to the `nucleotide`
+option on the `Choose the datatype of alignment` pop-up box:
+
 .. image:: beauti_1.png
-  :width: 400
+  :width: 800
   :alt: Beauti load page
+
+Next extract the dates from the sample names by clicking `Use tip dates` on the `Tip Dates` tab then `Auto-configure`. Change the `after first` box to `after last` and
+replace the ``_`` with ``-`` then click `OK`:
+
+.. image:: beauti_2.png
+  :width: 800
+  :alt: Beauti tip dates
+
+
 
 Edit HPC submission script
 --------------------------
