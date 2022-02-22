@@ -48,7 +48,7 @@ You can then run seqkit on your alignment to change the sample names:
 Create xml file in Beauti
 -------------------------
 
-.. image:: docs/beauti_1.png
+.. image:: beauti_1.png
   :width: 400
   :alt: Beauti load page
 
