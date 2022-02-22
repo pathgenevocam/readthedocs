@@ -27,8 +27,30 @@ Untar the downloaded file:
 Create alignment
 ----------------
 
+The alignment to be used to generate the BEAST xml file can be generated in a couple of different ways: either use `snp-sites` to extract the variant sites 
+from a whole genome alignment or use the filtered polymorphic site file created by `Gubbins`.  The alignment will need to have the dates for each sample added
+to the sample names in the fasta alignment using `seqkit`.  You will need a tab delimited file containing the original sample names and the dated sample names:
+
+.. code-block:: console
+
+    $ head dates.txt
+
+    $ 12754_8#27	12754_8#27-1982
+
+You can then run seqkit on your alignment to change the sample names:
+
+.. code-block:: console
+
+    $ conda activate seqkit
+
+    $ seqkit replace -p "(.+)" -r '{kv}' -k dates.txt alignment.fasta > alignment_dated.fasta
+
 Create xml file in Beauti
 -------------------------
+
+.. image:: beauti_1.png
+  :width: 400
+  :alt: Beauti load page
 
 Edit HPC submission script
 --------------------------
