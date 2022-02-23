@@ -139,3 +139,9 @@ Check your log files in Tracer
 Resuming beast runs
 -------------------
 
+Combine log and tree files
+--------------------------
+
+Create MCC tree
+---------------
+
