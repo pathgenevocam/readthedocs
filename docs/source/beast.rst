@@ -119,8 +119,7 @@ Edit HPC submission script
 
 Thanks to Noémie for providing this HPC submission script that makes use of the ``beagle`` libraries installed on the HPC.  The script
 can be found `here <https://github.com/pathgenevocam/hpc_submission>`_. Copy the script to the directory where your run directories are located and edit the script in ``nano`` as follows:
-
-Change ``#SBATCH -J JOBNAME`` to a sensible job name to help you track your jobs e.g. ``#SBATCH -J beast_1``.  Change ``#SBATCH -A GROUPNAME`` to the project you're using for your GPU analyses.
+change ``#SBATCH -J JOBNAME`` to a sensible job name to help you track your jobs e.g. ``#SBATCH -J beast_1``.  Change ``#SBATCH -A GROUPNAME`` to the project you're using for your GPU analyses.
 Depending on whether you're using a ``SL2`` (36 hours) or ``SL3`` (12 hours) project, edit ``#SBATCH --time=12:00:00`` accordingly.  For the first attempt we'll use the first ``beast`` command 
 in the submission script.  Change the location of the ``beast`` binary to where yours is located. Copy the submission script to each of your run directories and use the command below to submit 
 your jobs.
