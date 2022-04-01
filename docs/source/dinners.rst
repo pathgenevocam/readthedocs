@@ -73,4 +73,7 @@ is as follows:
    * - March 2022
      - Turkish
      - Efes
+   * - April 2022
+     - Thai
+     - Baan Thai
    
