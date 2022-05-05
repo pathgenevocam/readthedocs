@@ -76,4 +76,6 @@ is as follows:
    * - April 2022
      - Thai
      - Baan Thai
-   
+   * - May 2022
+     - Vegan
+     - Stem and Glory
