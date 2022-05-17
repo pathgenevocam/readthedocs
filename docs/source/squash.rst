@@ -31,6 +31,8 @@ Ladder
      - Ibrahim
    * - 9
      - Katriina
+   * - 10
+     - Elisa
 
 Tournament
 ----------
