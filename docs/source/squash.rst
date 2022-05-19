@@ -24,11 +24,11 @@ Ladder
    * - 5
      - Claire
    * - 6
-     - Julian
+     - Ibrahim
    * - 7
      - Ubaid
    * - 8
-     - Ibrahim
+     - Julian
    * - 9
      - Katriina
    * - 10
