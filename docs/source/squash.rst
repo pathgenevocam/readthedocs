@@ -7,7 +7,7 @@ We play regularly at the University Sports Centre just around the corner.
 Ladder
 ------
 
-.. list-table:: 16/05/2022
+.. list-table:: 19/05/2022
    :widths: 25 50
    :header-rows: 1
 
@@ -22,17 +22,17 @@ Ladder
    * - 4
      - Andries
    * - 5
-     - Claire
-   * - 6
      - Ibrahim
+   * - 6
+     - Julian
    * - 7
      - Ubaid
    * - 8
-     - Julian
-   * - 9
      - Katriina
-   * - 10
+   * - 9
      - Elisa
+   * - 10
+     - Claire
 
 Tournament
 ----------
