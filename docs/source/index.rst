@@ -20,6 +20,7 @@ Work
  hpc
  onedrive
  conda
+ mamba
  nfcore
  beast
  github
