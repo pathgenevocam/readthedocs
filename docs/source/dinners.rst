@@ -79,3 +79,6 @@ is as follows:
    * - May 2022
      - Vegan
      - Stem and Glory
+   * - June 2022
+     - BBQ
+     - Smokeworks
