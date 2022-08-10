@@ -82,6 +82,6 @@ is as follows:
    * - June 2022
      - BBQ
      - Smokeworks
-   * - August 2018
+   * - August 2022
      - Polish
      - Polonia
