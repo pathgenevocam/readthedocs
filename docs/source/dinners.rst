@@ -4,7 +4,7 @@ Monthly dinners
 Global pandemic permitting, once a month the Parkhill group arranges a dinner where we sample a different regional cuisine.
 We extend invitations to members of the BIGS lab and DDU and the general idea behind the dinners is to sample a different 
 global cuisine each month as well as provide an opportunity for members of the various groups to interact with each other 
-in a relaxed, social setting with (normally) excellent food.  To date, by our count, we’ve sampled 14 different cuisines ranging 
+in a relaxed, social setting with (normally) excellent food.  To date, by our count, we’ve sampled 17 different cuisines ranging 
 from Indian and Chinese to the more exotic such as West African and Polish.  The list of the cuisines and restaurants we've tried
 is as follows:
 
@@ -85,3 +85,6 @@ is as follows:
    * - August 2022
      - Polish
      - Polonia
+   * - September 2022
+     - Japanese
+     - Sushimania
