@@ -88,3 +88,6 @@ is as follows:
    * - September 2022
      - Japanese
      - Sushimania
+   * - October 2022
+     - Indian
+     - Taj Tandoori
