@@ -91,3 +91,6 @@ is as follows:
    * - October 2022
      - Indian
      - Taj Tandoori
+   * - November 2022
+     - North African
+     - Bedouin
