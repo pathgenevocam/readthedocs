@@ -94,3 +94,6 @@ is as follows:
    * - November 2022
      - North African
      - Bedouin
+   * - February 2023
+     - Korean
+     - Yori
