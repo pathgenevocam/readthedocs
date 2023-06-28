@@ -103,3 +103,6 @@ is as follows:
    * - April 2023
      - Colombian
      - La Latina Bustarante
+   * - June 2023
+     - French
+     - La Maison du Steak
