@@ -106,3 +106,6 @@ is as follows:
    * - June 2023
      - French
      - La Maison du Steak
+   * - July 2023
+     - BBQ
+     - Vet School
