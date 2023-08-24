@@ -109,3 +109,6 @@ is as follows:
    * - July 2023
      - BBQ
      - Vet School
+   * - August 2023
+     - Jordanian
+     - Little Petra
