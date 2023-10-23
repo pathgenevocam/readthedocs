@@ -112,3 +112,6 @@ is as follows:
    * - August 2023
      - Jordanian
      - Little Petra
+   * - October 2023 
+     - Italian
+     - De Luca Cucina
