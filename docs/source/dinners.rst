@@ -115,3 +115,9 @@ is as follows:
    * - October 2023 
      - Italian
      - De Luca Cucina
+   * - November 2023 
+     - Turkish
+     - Efes
+   * - January 2024 
+     - Polish
+     - The Polish Restaurant (Polonia)
